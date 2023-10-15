@@ -1,0 +1,65 @@
+html{
+    background-color: #FFEAD2;
+}
+h1{
+    color: #16FF00;
+    font-size: 50px;
+    font-weight: 700;
+    font-family: cursive;
+    background-color: black;
+
+}
+p{
+    color: brown;
+}
+a{
+    color: blue;
+    background-color: rgb(255, 255, 255);
+}
+h2{
+    color: #435334;
+    font-size: 30px;
+}
+#logo.png{
+    width: 45%;
+    height: 80%;
+}
+/* Reset default margin and padding for body */
+body {
+    margin: 0;
+    padding: 0;
+}
+
+/* Style for the header element */
+header {
+    background-color: #333; /* Background color for the header */
+    color: #fff; /* Text color for the header */
+    padding: 10px; /* Add padding for spacing */
+    display: flex;
+}
+
+/* Style for the logo */
+.logo img {
+    max-height: 50px; /* Adjust the height as needed */
+    margin: 20px; /* Add margin for spacing */
+}
+.undrlogo{
+    color: aqua;
+    background-color: #333;
+}
+.Sulaiman{
+    color: rgb(0, 195, 255);
+    background-color: #333;
+    text-align: center;
+    font-family: cursive;
+}
+nav ul li{
+    display: inline-block;
+    list-style: none;
+    margin: 10px 20px;
+    font-weight: bolder;
+}
+nav ul li a{
+    background-color: white;
+    color: blue;
+}
