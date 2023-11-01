@@ -1,0 +1,79 @@
+html{
+    background-color: #fff;
+}
+h1{
+    color: #16FF00;
+    font-size: 50px;
+    font-weight: 700;
+    font-family: cursive;
+    background-color: black;
+
+}
+p{
+    color: brown;
+}
+a{
+    color: blue;
+    background-color: rgb(255, 255, 255);
+}
+h2{
+    color: #435334;
+    font-size: 30px;
+}
+#logo.png{
+    width: 45%;
+    height: 80%;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.nologo {
+    background-color: #333; 
+    color: #fff; 
+    padding: 10px;
+    display: flex;
+}
+
+
+.logo img {
+    max-height: 50px;
+    margin: 20px; 
+}
+.undrlogo{
+    color: aqua; 
+    background-color: #333;
+}
+.Sulaiman{
+    color: rgb(0, 195, 255);
+    background-color: #333;
+    text-align: center;
+    font-family: cursive;
+}
+nav ul li{
+    display: inline-block;
+    list-style: none;
+    margin: 10px 20px;
+    font-weight: bolder;
+    font-size: 25px;
+}
+nav ul li a{
+    background-color: white;
+    color: blue;
+}
+.ad{
+    text-align: center;
+    color: #16FF00;
+    background-color: #333;
+   }
+.ad p{
+    color: #16FF00;
+}
+.mail{
+    font-size: 25px;
+}
+#link{
+    background-color: #333;
+}
